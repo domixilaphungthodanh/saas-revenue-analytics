@@ -1,0 +1,5 @@
+﻿usage_band,account_months,churn_next_month,churn_rate_pct,avg_active_days,avg_seat_utilization
+dormant,1583,55,3.47,2.4,0.392
+low,8359,210,2.51,9.9,0.532
+steady,5585,88,1.58,18.3,0.67
+power,370,3,0.81,26.2,0.781

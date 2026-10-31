@@ -1,0 +1,6 @@
+﻿utilization_band,account_months,expansion_next_month,expansion_rate_pct,churn_next_month,churn_rate_pct
+1_duoi_40,1145,11,0.96,37,3.23
+2_40_60,7085,160,2.26,179,2.53
+3_60_75,6614,584,8.83,129,1.95
+4_75_90,1008,190,18.85,11,1.09
+5_tu_90,45,15,33.33,0,0.0

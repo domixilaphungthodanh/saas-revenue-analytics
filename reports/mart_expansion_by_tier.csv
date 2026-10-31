@@ -1,0 +1,5 @@
+﻿tier,accounts,seat_add_mrr,upgrade_mrr,seat_remove_mrr,downgrade_mrr,churn_mrr,net_mrr_impact,seat_add_events,upgrade_events,expansion_events_per_100_accounts
+business,474,72901.0,59211.0,-522.0,-315.0,-74518.0,56757.0,407,91,105.06
+enterprise,142,51018.0,0.0,-308.0,-2237.0,-34868.0,13605.0,162,0,114.08
+starter,248,615.0,530.0,-168.0,0.0,-14158.0,-13181.0,20,8,11.29
+growth,533,17061.0,20672.0,-885.0,-488.0,-53637.0,-17277.0,204,68,51.03

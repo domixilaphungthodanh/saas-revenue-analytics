@@ -1,0 +1,9 @@
+﻿reason,churned_accounts,pct_of_churn,mrr_lost,avg_mrr_lost
+no_longer_needed,81,19.33,27454.0,338.94
+too_expensive,78,18.62,23454.0,300.69
+payment_failed,77,18.38,61616.0,800.21
+missing_features,74,17.66,22531.0,304.47
+switched_competitor,50,11.93,17162.0,343.24
+poor_support,25,5.97,12032.0,481.28
+budget_cut,20,4.77,8758.0,437.9
+product_quality,14,3.34,4174.0,298.14

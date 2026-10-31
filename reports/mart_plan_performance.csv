@@ -1,0 +1,5 @@
+﻿tier,plan_name,current_mrr,active_accounts,avg_mrr_per_account,churned_accounts,churn_rate_pct,expansion_mrr,contraction_mrr,churn_mrr,net_expansion_mrr
+enterprise,Enterprise,422280.0,221,1910.77,29,11.6,177969.0,-308.0,-49364.0,128297.0
+business,Business,194490.0,312,623.37,95,23.34,35387.0,-2759.0,-60423.0,-27795.0
+growth,Growth,93477.0,303,308.5,187,38.16,8292.0,-1200.0,-52778.0,-45686.0
+starter,Starter,19378.0,142,136.46,108,43.2,360.0,-656.0,-14616.0,-14912.0

@@ -1,0 +1,5 @@
+﻿risk_flag,accounts,pct_accounts,active_mrr,pct_active_mrr
+watch,518,37.08,331876.0,45.49
+churned,419,29.99,0.0,0.0
+healthy,279,19.97,317147.0,43.47
+at_risk,181,12.96,80602.0,11.05
